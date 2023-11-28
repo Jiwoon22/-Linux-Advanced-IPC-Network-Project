@@ -20,11 +20,11 @@
 
 ***1. PIPE 소프트웨어 설계도와 쓰레드 설계***  
 
-- 소프트웨어 설계도
-![image](https://github.com/Jiwoon22/Advanced-IPC-Network-Project/assets/51106092/f060416c-d1b4-44de-ba8a-2996a8c8a1c3)
+- 소프트웨어 설계도  
+![image](https://github.com/Jiwoon22/Advanced-IPC-Network-Project/assets/51106092/f060416c-d1b4-44de-ba8a-2996a8c8a1c3)    
 
-- 쓰레드 설계
-![image](https://github.com/Jiwoon22/Advanced-IPC-Network-Project/assets/51106092/b8ec9951-974a-4ebe-aea5-dd4bd544ba9b)
+- 쓰레드 설계  
+![image](https://github.com/Jiwoon22/Advanced-IPC-Network-Project/assets/51106092/b8ec9951-974a-4ebe-aea5-dd4bd544ba9b)    
 
 
 
