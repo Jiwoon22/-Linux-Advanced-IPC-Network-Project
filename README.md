@@ -15,6 +15,9 @@
 * 경쟁상태 방지, 동기화 기법 사용
 
 
+
+
+
 ***1. PIPE 소프트웨어 설계도와 쓰레드 설계***  
 
 - 소프트웨어 설계도
@@ -26,6 +29,8 @@
 
 
 
+
+
 ***2. Message Passing 소프트웨어 설계도와 쓰레드 설계***  
 
 - 소프트웨어 설계도
@@ -33,6 +38,8 @@
 
 - 쓰레드 설계
 ![image](https://github.com/Jiwoon22/Advanced-IPC-Network-Project/assets/51106092/26dd9d18-cdcc-4b9e-9777-09dd993df3cd)
+
+
 
 
 
