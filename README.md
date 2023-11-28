@@ -15,8 +15,8 @@
 * 경쟁상태 방지, 동기화 기법 사용
 
 
-  
-***1. PIPE 소프트웨어 설계도와 쓰레드 설계 ***
+***1. PIPE 소프트웨어 설계도와 쓰레드 설계***  
+
 - 소프트웨어 설계도
 ![image](https://github.com/Jiwoon22/Advanced-IPC-Network-Project/assets/51106092/f060416c-d1b4-44de-ba8a-2996a8c8a1c3)
 
@@ -26,7 +26,8 @@
 
 
 
-***2. Message Passing 소프트웨어 설계도와 쓰레드 설계 ***
+***2. Message Passing 소프트웨어 설계도와 쓰레드 설계***  
+
 - 소프트웨어 설계도
 ![image](https://github.com/Jiwoon22/Advanced-IPC-Network-Project/assets/51106092/e85a751c-b657-4da6-9184-ad8aa304bc80)
 
@@ -36,7 +37,8 @@
 
 
 
-***3. Shared Memory 소프트웨어 설계도와 쓰레드 설계 ***
+***3. Shared Memory 소프트웨어 설계도와 쓰레드 설계*** 
+
 - 소프트웨어 설계도
 ![image](https://github.com/Jiwoon22/Advanced-IPC-Network-Project/assets/51106092/d4036171-ea9b-4de4-a79d-1d9a02842ebd)
 
